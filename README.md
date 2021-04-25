@@ -1,6 +1,6 @@
 # Projects
 
-### Hi there, I'm Richie, and here you can find projects that I did for my portfolio [website].
+### Hi there, here you can find projects and website itself that is included here: [portfolio].
 
 
-[website]: https://www.staniulis.eu
+[portfolio]: https://www.staniulis.eu
