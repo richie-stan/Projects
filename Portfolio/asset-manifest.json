@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d3b29b1.chunk.css",
+    "main.js": "/static/js/main.482dbf93.chunk.js",
+    "main.js.map": "/static/js/main.482dbf93.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/js/2.c9806322.chunk.js": "/static/js/2.c9806322.chunk.js",
+    "static/js/2.c9806322.chunk.js.map": "/static/js/2.c9806322.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d3b29b1.chunk.css.map": "/static/css/main.9d3b29b1.chunk.css.map",
+    "static/js/2.c9806322.chunk.js.LICENSE.txt": "/static/js/2.c9806322.chunk.js.LICENSE.txt",
+    "static/media/bgImg2.b23d80fe.jpg": "/static/media/bgImg2.b23d80fe.jpg",
+    "static/media/coding-img.svg": "/static/media/coding-img.ece59667.svg",
+    "static/media/github_Image.d0701fcc.svg": "/static/media/github_Image.d0701fcc.svg",
+    "static/media/login_Image.0ea4a4a8.svg": "/static/media/login_Image.0ea4a4a8.svg",
+    "static/media/programmerBrand.67828a52.png": "/static/media/programmerBrand.67828a52.png",
+    "static/media/retrieval_Image.0f46b198.svg": "/static/media/retrieval_Image.0f46b198.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/js/2.c9806322.chunk.js",
+    "static/css/main.9d3b29b1.chunk.css",
+    "static/js/main.482dbf93.chunk.js"
+  ]
+}
