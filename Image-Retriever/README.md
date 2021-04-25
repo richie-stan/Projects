@@ -1,6 +1,6 @@
-##This project uses Unsplash API to retrieve images.
+###This project uses Unsplash API to retrieve images.
 
-##Features:
+###Features:
 1. Keyword search input field.
 2. Search button to retrieve images.
 3. Image grid displaying images. 
