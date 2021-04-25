@@ -1,1 +1,3 @@
-This is a portfolio website that I have done in other to showcase other projects in it. 
+This is the code that was used for [portfolio]
+
+[portfolio] : https://www.staniulis.eu
