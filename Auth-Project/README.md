@@ -1,4 +1,4 @@
-This project allows user to login via Auth0 and gives a random joke through 
+This project allows user to login via Auth0 and gives a random joke through [api]
 
 [api]:https://github.com/15Dkatz/official_joke_api
 
