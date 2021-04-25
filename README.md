@@ -1,6 +1,6 @@
 # Projects
 
-### Hi there, here you can find projects and website itself that is included here: [portfolio].
+### Hi! These are the projects that have been used for [portfolio].
 
 
 [portfolio]: https://www.staniulis.eu
